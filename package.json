@@ -1,0 +1,22 @@
+{
+  "name": "sqlnode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sans-creator/SqlNode.git"
+  },
+  "author": "Sanskar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sans-creator/SqlNode/issues"
+  },
+  "homepage": "https://github.com/sans-creator/SqlNode#readme",
+  "description": "",
+  "dependencies": {
+    "@faker-js/faker": "^9.9.0"
+  }
+}

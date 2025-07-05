@@ -17,6 +17,7 @@
   "homepage": "https://github.com/sans-creator/SqlNode#readme",
   "description": "",
   "dependencies": {
-    "@faker-js/faker": "^9.9.0"
+    "@faker-js/faker": "^9.9.0",
+    "mysql2": "^3.14.1"
   }
 }
